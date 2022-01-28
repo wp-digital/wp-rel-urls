@@ -1,0 +1,11 @@
+{
+  "name": "innocode-digital/wp-rel-urls",
+  "version": "1.0.0",
+  "type": "library",
+  "license": "MIT",
+  "require": {},
+  "description": "",
+  "autoload": {
+    "files": ["src/functions.php"]
+  }
+}
